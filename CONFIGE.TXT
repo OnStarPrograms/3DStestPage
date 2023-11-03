@@ -1,0 +1,16 @@
+CPADUP
+CPADDOWN
+CPADLEFT
+CPADRIGHT
+A
+B
+X
+Y
+v
+m
+q
+x
+f
+1
+2
+3
